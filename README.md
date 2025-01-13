@@ -1,1 +1,1 @@
-# tucket-booking-system
+# ticket-booking-system
